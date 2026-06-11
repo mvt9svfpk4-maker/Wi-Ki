@@ -1,0 +1,6 @@
+{
+  "name": "Wi-Ki",
+  "description": "시각장애인을 위한 키오스크 블루투스 연결, 고대비 메뉴 탐색, 방향별 진동 피드백 및 즐겨찾기 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
